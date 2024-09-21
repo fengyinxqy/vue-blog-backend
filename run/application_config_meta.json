@@ -1,0 +1,334 @@
+{
+  "keys": "F:\\programming\\项目\\vue-blog-backend\\config\\config.default.js",
+  "middleware": "F:\\programming\\项目\\vue-blog-backend\\config\\config.default.js",
+  "jwtAuth": {
+    "ignore": "F:\\programming\\项目\\vue-blog-backend\\config\\config.default.js"
+  },
+  "jwt": {
+    "secret": "F:\\programming\\项目\\vue-blog-backend\\config\\config.default.js",
+    "sign": {
+      "expiresIn": "F:\\programming\\项目\\vue-blog-backend\\config\\config.default.js"
+    },
+    "enable": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-jwt\\config\\config.default.js"
+  },
+  "security": {
+    "csrf": {
+      "enable": "F:\\programming\\项目\\vue-blog-backend\\config\\config.default.js",
+      "type": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js",
+      "rotateWhenInvalid": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js",
+      "supportedRequests": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieOptions": {
+        "signed": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js"
+      }
+    },
+    "domainWhiteList": "F:\\programming\\项目\\vue-blog-backend\\config\\config.default.js",
+    "protocolWhiteList": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js",
+      "ipExceptionList": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js",
+      "hostnameExceptionList": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "cors": {
+    "origin": "F:\\programming\\项目\\vue-blog-backend\\config\\config.default.js",
+    "allowMethods": "F:\\programming\\项目\\vue-blog-backend\\config\\config.default.js",
+    "credentials": "F:\\programming\\项目\\vue-blog-backend\\config\\config.default.js"
+  },
+  "sequelize": {
+    "dialect": "F:\\programming\\项目\\vue-blog-backend\\config\\config.default.js",
+    "host": "F:\\programming\\项目\\vue-blog-backend\\config\\config.default.js",
+    "port": "F:\\programming\\项目\\vue-blog-backend\\config\\config.default.js",
+    "username": "F:\\programming\\项目\\vue-blog-backend\\config\\config.default.js",
+    "password": "F:\\programming\\项目\\vue-blog-backend\\config\\config.default.js",
+    "database": "F:\\programming\\项目\\vue-blog-backend\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-session\\config\\config.default.js",
+    "logValue": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultParamCharset": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-multipart\\config\\config.default.js",
+    "allowArrayField": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-multipart\\config\\config.default.js",
+      "disable": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideIgnore": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+  "name": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "version": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "description": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "private": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "egg": {
+      "declarations": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "bcryptjs": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "egg": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "egg-jwt": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "egg-sequelize": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "jsonwebtoken": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "mysql2": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "uuid": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "stop": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "dev": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "test": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "test:local": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "cov": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "lint": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "ci": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "url": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "license": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "timing": {
+      "slowBootActionMinDuration": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "confusedConfigurations": {
+    "bodyparser": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "cacheControl": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "strict": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "depth": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "env": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "level": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "enablePerformanceTimer": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "enableFastContextLogger": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js"
+    },
+    "useHttpClientNext": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js"
+  },
+  "meta": {
+    "enable": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "logging": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "port": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "F:\\programming\\项目\\vue-blog-backend\\node_modules\\egg\\config\\config.default.js"
+}
